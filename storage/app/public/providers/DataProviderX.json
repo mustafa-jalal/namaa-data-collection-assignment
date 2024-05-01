@@ -1,0 +1,34 @@
+[
+    {
+        "parentAmount":200,
+        "Currency": "USD",
+        "parentEmail": "parent1@parent.eu",
+        "statusCode":1,
+        "registerationDate": "2018-11-30",
+        "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+    },
+    {
+        "parentAmount":1500,
+        "Currency":"EGP",
+        "parentEmail":"user1@gmail.com",
+        "statusCode":1,
+        "registerationDate": "2019-11-30",
+        "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+    },
+    {
+        "parentAmount":225,
+        "Currency":"EURO",
+        "parentEmail":"user2@hotmail.eu",
+        "statusCode":3,
+        "registerationDate": "2019-11-30",
+        "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+    },
+    {
+        "parentAmount":177,
+        "Currency":"USD",
+        "parentEmail":"user3@yahoo.eu",
+        "statusCode":2,
+        "registerationDate": "2018-06-30",
+        "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+    }
+]
